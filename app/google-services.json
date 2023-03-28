@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676520500097",
+    "project_id": "savee-d02eb",
+    "storage_bucket": "savee-d02eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676520500097:android:a18ed1a7ed409ebf91e680",
+        "android_client_info": {
+          "package_name": "com.example.savee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676520500097-l9ane0a26svl309ulqeteda3e8t63lgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoLtrzrH05d-8naBlw2Kz6_WdiRSmLkvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676520500097-l9ane0a26svl309ulqeteda3e8t63lgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
